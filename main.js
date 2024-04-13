@@ -1,6 +1,6 @@
-$(function(){
-    console.log(masodfokuEgyenletMegoldasa(1,4,4))
-})
+
+console.log(masodfokuEgyenletMegoldasa(1,2,1))
+
 // Másodfokú egyenlet calculator online http://eprog.hu/oktatas/javascript/feladat05.html
 
 function masodfokuEgyenletMegoldasa(a, b, c) {
